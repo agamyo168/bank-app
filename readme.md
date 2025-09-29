@@ -1,3 +1,5 @@
-## TODO:
-- [ ] [Setup golang environment in NixOS](https://haseebmajid.dev/posts/2023-10-26-how-to-setup-a-go-development-shell-with-nix-flakes/)
-- [ ] 
+Backend for banking application in Golang.
+
+## Database Diagram:
+[dbdiagram](https://dbdiagram.io/d/Bank-App-68d9d010d2b621e4224a7615)
+
